@@ -12,7 +12,7 @@ clin==1.8.0
 clip==0.2.0
 contourpy==1.3.3
 cycler==0.12.1
-datasetsv==4.4.2
+datasets==4.4.2
 diffusers==0.36.0
 dill==0.4.0
 einops==0.8.1
